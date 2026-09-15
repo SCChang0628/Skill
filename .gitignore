@@ -1,0 +1,9 @@
+# Codex 內建 Skills
+.system/
+
+# 暫存與敏感檔案
+.DS_Store
+**/__pycache__/
+*.pyc
+.env
+.env.*

@@ -1,0 +1,7 @@
+interface:
+  display_name: "論文分析"
+  short_description: "拆解論文的研究問題、方法、物理意義、流程與限制"
+  default_prompt: "使用 $paper-analysis 分析這篇論文在做什麼、解決什麼問題、如何解決，以及物理意義與流程。"
+
+policy:
+  allow_implicit_invocation: true
