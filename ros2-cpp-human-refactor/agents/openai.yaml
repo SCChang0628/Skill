@@ -1,0 +1,4 @@
+interface:
+  display_name: "ROS 2 C++ Human Refactor"
+  short_description: "Write and simplify maintainable ROS 2 C++ code"
+  default_prompt: "Use $ros2-cpp-human-refactor to refactor this ROS 2 C++ code while preserving behavior."
